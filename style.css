@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#color{
+  background-color: palevioletred;
+  font-family: cursive;
+}
+
+.carousel-item img{
+  height: 50vh;
+  object-fit: cover !important;
+  object-position: center !important;
+  overflow: hidden !important;
+}
+
+p{
+  text-align: center;
+  font-family: cursive;
+}
